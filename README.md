@@ -1,0 +1,1 @@
+Just a terribly inefficient way to log information, nothing to see here. 
